@@ -1,6 +1,6 @@
 # Breaking Apps Hackathon — Passmark Test Suite for Hoppscotch
 
-A Passmark AI-powered test suite for [Hoppscotch](https://hoppscotch.io), built for the [Breaking Apps Hackathon](https://hashnode.com/hackathons/breaking-apps) by Bug0.
+A Passmark AI-powered test suite for [Hoppscotch](https://hoppscotch.io), built for the [Breaking Apps Hackathon](https://hashnode.com/hackathons/breaking-things) by Bug0.
 
 ## What is Passmark?
 Passmark lets you write Playwright tests in plain English — no selectors, no page objects. Just describe what a user does and what you expect.
